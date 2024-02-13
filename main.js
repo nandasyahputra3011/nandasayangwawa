@@ -31,7 +31,7 @@ function Answer(answer) {
   }
 
   if (answer) {
-    image.src = './static/bearkiss.gif';
+    image.src = 'bearkiss.gif';
     buttons.add('hidden');
     heading.innerHTML = "timakacii bnyk cayangku yang cantik bangettttt!!!!!!. Happy valentine's day untuk wawa yang manis, imut, dan cantik. Maaf ya gabisa beliin kamu coklat";
   }
