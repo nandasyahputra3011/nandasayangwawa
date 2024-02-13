@@ -9,7 +9,7 @@ console.log(buttons);
 
 const w_factor = 4;
 const h_factor = 3;
-const audio = new Audio("./static/meme.mp3");
+const audio = new Audio("meme.mp3");
 
 let counter = 1;
 
